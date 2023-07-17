@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 14e66f046ae628b4e986f5423d903523
+timeCreated: 1515596313
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: airco_006
+    100002: airco_007
+    100004: airco_009
+    100006: airco_01
+    100008: airco_010
+    100010: airco_011
+    100012: airco_012
+    100014: airco_013
+    100016: airco_014
+    100018: Cylinder015
+    100020: floor
+    100022: flowers_pot_01
+    100024: flowers_pot_02
+    100026: flowers_pot_03
+    100028: GMarket_ext_lights
+    100030: GMarket_ext_lights001
+    100032: GMarket_ext_lights002
+    100034: GMarket_ext_lights003
+    100036: GMarket_ext_lights004
+    100038: GMarket_ext_lights005
+    100040: GMarket_ext_lights006
+    100042: GMarket_ext_lights007
+    100044: GMarket_ext_lights010
+    100046: GMarket_ext_lights011
+    100048: GMarket_ext_lights012
+    100050: GMarket_ext_wall
+    100052: GMarket_fences
+    100054: GMarket_int
+    100056: GMarket_out
+    100058: grass
+    100060: //RootNode
+    100062: Hospital_panel
+    100064: Leaf_market_logo
+    100066: Leaf_market_logo001
+    100068: Leaf_market_logo002
+    100070: marking
+    100072: Object012
+    100074: pavement
+    100076: solar_panels
+    100078: Tree_002
+    100080: Tree_01
+    100082: Tree_pot
+    100084: Tree_pot001
+    100086: vegetation_005
+    100088: vegetation_006
+    100090: vegetation_007
+    100092: vegetation_008
+    100094: vegetation_01
+    100096: vegetation_02
+    100098: vegetation_03
+    100100: vegetation_04
+    100102: deco
+    100104: GMarket_Doors_05
+    100106: GMarket_Doors_06
+    100108: airco_008
+    400000: airco_006
+    400002: airco_007
+    400004: airco_009
+    400006: airco_01
+    400008: airco_010
+    400010: airco_011
+    400012: airco_012
+    400014: airco_013
+    400016: airco_014
+    400018: Cylinder015
+    400020: floor
+    400022: flowers_pot_01
+    400024: flowers_pot_02
+    400026: flowers_pot_03
+    400028: GMarket_ext_lights
+    400030: GMarket_ext_lights001
+    400032: GMarket_ext_lights002
+    400034: GMarket_ext_lights003
+    400036: GMarket_ext_lights004
+    400038: GMarket_ext_lights005
+    400040: GMarket_ext_lights006
+    400042: GMarket_ext_lights007
+    400044: GMarket_ext_lights010
+    400046: GMarket_ext_lights011
+    400048: GMarket_ext_lights012
+    400050: GMarket_ext_wall
+    400052: GMarket_fences
+    400054: GMarket_int
+    400056: GMarket_out
+    400058: grass
+    400060: //RootNode
+    400062: Hospital_panel
+    400064: Leaf_market_logo
+    400066: Leaf_market_logo001
+    400068: Leaf_market_logo002
+    400070: marking
+    400072: Object012
+    400074: pavement
+    400076: solar_panels
+    400078: Tree_002
+    400080: Tree_01
+    400082: Tree_pot
+    400084: Tree_pot001
+    400086: vegetation_005
+    400088: vegetation_006
+    400090: vegetation_007
+    400092: vegetation_008
+    400094: vegetation_01
+    400096: vegetation_02
+    400098: vegetation_03
+    400100: vegetation_04
+    400102: deco
+    400104: GMarket_Doors_05
+    400106: GMarket_Doors_06
+    400108: airco_008
+    2300000: airco_006
+    2300002: airco_007
+    2300004: airco_009
+    2300006: airco_01
+    2300008: airco_010
+    2300010: airco_011
+    2300012: airco_012
+    2300014: airco_013
+    2300016: airco_014
+    2300018: Cylinder015
+    2300020: floor
+    2300022: flowers_pot_01
+    2300024: flowers_pot_02
+    2300026: flowers_pot_03
+    2300028: GMarket_ext_lights
+    2300030: GMarket_ext_lights001
+    2300032: GMarket_ext_lights002
+    2300034: GMarket_ext_lights003
+    2300036: GMarket_ext_lights004
+    2300038: GMarket_ext_lights005
+    2300040: GMarket_ext_lights006
+    2300042: GMarket_ext_lights007
+    2300044: GMarket_ext_lights010
+    2300046: GMarket_ext_lights011
+    2300048: GMarket_ext_lights012
+    2300050: GMarket_ext_wall
+    2300052: GMarket_fences
+    2300054: GMarket_int
+    2300056: GMarket_out
+    2300058: grass
+    2300060: Hospital_panel
+    2300062: Leaf_market_logo
+    2300064: Leaf_market_logo001
+    2300066: Leaf_market_logo002
+    2300068: marking
+    2300070: Object012
+    2300072: pavement
+    2300074: solar_panels
+    2300076: Tree_002
+    2300078: Tree_01
+    2300080: Tree_pot
+    2300082: Tree_pot001
+    2300084: vegetation_005
+    2300086: vegetation_006
+    2300088: vegetation_007
+    2300090: vegetation_008
+    2300092: vegetation_01
+    2300094: vegetation_02
+    2300096: vegetation_03
+    2300098: vegetation_04
+    2300100: deco
+    2300102: GMarket_Doors_05
+    2300104: GMarket_Doors_06
+    2300106: airco_008
+    3300000: airco_006
+    3300002: airco_007
+    3300004: airco_009
+    3300006: airco_01
+    3300008: airco_010
+    3300010: airco_011
+    3300012: airco_012
+    3300014: airco_013
+    3300016: airco_014
+    3300018: Cylinder015
+    3300020: floor
+    3300022: flowers_pot_01
+    3300024: flowers_pot_02
+    3300026: flowers_pot_03
+    3300028: GMarket_ext_lights
+    3300030: GMarket_ext_lights001
+    3300032: GMarket_ext_lights002
+    3300034: GMarket_ext_lights003
+    3300036: GMarket_ext_lights004
+    3300038: GMarket_ext_lights005
+    3300040: GMarket_ext_lights006
+    3300042: GMarket_ext_lights007
+    3300044: GMarket_ext_lights010
+    3300046: GMarket_ext_lights011
+    3300048: GMarket_ext_lights012
+    3300050: GMarket_ext_wall
+    3300052: GMarket_fences
+    3300054: GMarket_int
+    3300056: GMarket_out
+    3300058: grass
+    3300060: Hospital_panel
+    3300062: Leaf_market_logo
+    3300064: Leaf_market_logo001
+    3300066: Leaf_market_logo002
+    3300068: marking
+    3300070: Object012
+    3300072: pavement
+    3300074: solar_panels
+    3300076: Tree_002
+    3300078: Tree_01
+    3300080: Tree_pot
+    3300082: Tree_pot001
+    3300084: vegetation_005
+    3300086: vegetation_006
+    3300088: vegetation_007
+    3300090: vegetation_008
+    3300092: vegetation_01
+    3300094: vegetation_02
+    3300096: vegetation_03
+    3300098: vegetation_04
+    3300100: deco
+    3300102: GMarket_Doors_05
+    3300104: GMarket_Doors_06
+    3300106: airco_008
+    4300000: GMarket_int
+    4300002: GMarket_out
+    4300004: pavement
+    4300006: GMarket_fences
+    4300008: GMarket_ext_lights
+    4300010: Leaf_market_logo
+    4300012: airco_01
+    4300014: airco_006
+    4300016: airco_007
+    4300018: airco_009
+    4300020: airco_010
+    4300022: airco_011
+    4300024: airco_012
+    4300026: airco_013
+    4300028: airco_014
+    4300030: solar_panels
+    4300032: Leaf_market_logo001
+    4300034: Leaf_market_logo002
+    4300036: Cylinder015
+    4300038: marking
+    4300040: GMarket_ext_lights001
+    4300042: GMarket_ext_lights002
+    4300044: GMarket_ext_lights003
+    4300046: GMarket_ext_lights004
+    4300048: GMarket_ext_lights005
+    4300050: GMarket_ext_lights006
+    4300052: GMarket_ext_lights007
+    4300054: GMarket_ext_lights010
+    4300056: GMarket_ext_lights011
+    4300058: GMarket_ext_lights012
+    4300060: GMarket_ext_wall
+    4300062: Object012
+    4300064: Hospital_panel
+    4300066: floor
+    4300068: grass
+    4300070: Tree_pot
+    4300072: Tree_01
+    4300074: vegetation_03
+    4300076: vegetation_04
+    4300078: vegetation_02
+    4300080: vegetation_01
+    4300082: Tree_002
+    4300084: vegetation_005
+    4300086: Tree_pot001
+    4300088: vegetation_006
+    4300090: flowers_pot_02
+    4300092: flowers_pot_03
+    4300094: vegetation_007
+    4300096: flowers_pot_01
+    4300098: vegetation_008
+    4300100: GMarket_Doors_05
+    4300102: GMarket_Doors_06
+    4300104: deco
+    4300106: airco_008
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 6e5a29b9c1aec764c8e77052a12f1daf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_grey
+    second: {fileID: 2100000, guid: c3b27ff59a7830a44bd54d9aa11ec72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_white
+    second: {fileID: 2100000, guid: 3052947242cc3a849ac49537e4f4211d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: a4f79a0c477f4eb488c2f00648a18753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_Branch
+    second: {fileID: 2100000, guid: 35560640e13dd594b97ab00ba999226b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_trunk
+    second: {fileID: 2100000, guid: 3ac775ac1d451a8488ec785bbdc4849f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling
+    second: {fileID: 2100000, guid: f4d4c5a22cf63124c8b050b321c8f9d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concret_01
+    second: {fileID: 2100000, guid: 44381e969ed46fe4fa6b9eab35dab8dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concret_04
+    second: {fileID: 2100000, guid: 67283aed3e0c0034f9aebbdf7baaf642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entrance_panel
+    second: {fileID: 2100000, guid: bd56e9ab60afd0d45b5f46721e01a1c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 3c08d7fdc5330b2418a2db67c26b74c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_02
+    second: {fileID: 2100000, guid: 0db15fe93ff400146ab8c3894c25f7cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass
+    second: {fileID: 2100000, guid: 004c31f491e96b24ca72efb93f0aef9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 712cf1c516f21db4d85fe102a57595fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: long_grass_01
+    second: {fileID: 2100000, guid: d92ee98a67bacde468728232ccfe6c86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: long_grass_04
+    second: {fileID: 2100000, guid: ad05ff6699a6204429c103aa2047d359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: long_grass_07
+    second: {fileID: 2100000, guid: 87e27865ced751b4cbc003cba5e6c04f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marking
+    second: {fileID: 2100000, guid: abacce6ae008cb1438ad264f6fc2bcbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marking_02
+    second: {fileID: 2100000, guid: d42fcbf5cc67ffb43a037feb1f57a148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_black_ext
+    second: {fileID: 2100000, guid: a676d5c63f8d476439e523f33f407c05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_dirt
+    second: {fileID: 2100000, guid: 00214095eb052be4faaa01d72eb19ae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement
+    second: {fileID: 2100000, guid: cd76bd122007ac547a18560d74b93afb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavement_02
+    second: {fileID: 2100000, guid: da6a3eb8a62cbf34a98c4ef5fa279853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_black_02
+    second: {fileID: 2100000, guid: bb9dd62e042476d47a7553114ca410c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road
+    second: {fileID: 2100000, guid: 7065a7486bbd9054bafd8714638bae77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: solar_panel
+    second: {fileID: 2100000, guid: 1c95084199686e24895d42451d26dc47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tile_ground_01
+    second: {fileID: 2100000, guid: 8f3f2e96549e8a3498b66a9cb86432e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tile_metal_03
+    second: {fileID: 2100000, guid: 42ab2b8aa191754429e3004d97eb8390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tiles_ext
+    second: {fileID: 2100000, guid: 793d08484dc10cd4aa8a1f532e924486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tiles_ext_02
+    second: {fileID: 2100000, guid: 9978209ffe53b2c40b7395a659b53936, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vents
+    second: {fileID: 2100000, guid: 8e2aa476277d0d541a8d027c5b2fa4aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_ext
+    second: {fileID: 2100000, guid: bffe5a92f6059764abd220c6a9e542ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellow
+    second: {fileID: 2100000, guid: 748beb74b1349c44294ad9e68b3ceb36, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
